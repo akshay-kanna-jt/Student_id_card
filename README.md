@@ -2,7 +2,7 @@
 
 A new Flutter project.  
 
-ReadMe will be added soon
+ReadMe will be added soon. 
 
 ## Getting Started
 
