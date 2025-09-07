@@ -2,6 +2,8 @@
 
 A new Flutter project.  
 
+ReadMe will be added soon
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
